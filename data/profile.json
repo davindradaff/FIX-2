@@ -1,0 +1,44 @@
+{
+    "name": "Davindra Daffa Arenino - Electrical Engineering Students",
+    "description": "I am a fresh graduate in Electronics Engineering from Semarang State Polytechnic, Department of Electrical Engineering, with a strong interest in computer systems, electronics, and programming. I have gained hands-on experience through various projects, laboratory experiments, and collaborative teamwork, focusing on problem-solving, system design, and hardware–software integration to create innovative and functional solutions. I am particularly passionate about emerging technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), and industrial automation. I continuously strive to enhance my knowledge and skills to keep pace with technological advancements. With a commitment to developing technical expertise, critical thinking, and adaptability, I aim to contribute as a creative and competent engineer who delivers impactful solutions in the technology sector.",
+    "profileImage": "images/fotoku.jpg",
+    "email": "davindradapp@gmail.com",
+    "phone": "+62 (882) 335-536-47 ",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/davindra-daffa-areninio-1530242b8"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/davindradaff"
+        },
+        
+    
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/davinndaff"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV TERBARU 2025 BIASA.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electrical Engineering", "icon": "fas fa-bolt"},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip"},
+        {"name": "Programming PLC", "icon": "fas fa-network-wired"},
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	    {"name": "Mechanical Design", "icon": "fas fa-cogs"},
+        {"name": "Web Programming", "icon": "fab fa-js"},
+        {"name": "Comunication", "icon": "fab fa-globe"},
+        {"name": "Miscrosoft Office", "icon":  "fas fa-desktop"}, 
+	    {"name": "Team Work", "icon": "fas fa-globe"},
+        {"name": "Marketing seller", "icon": "fas fa-globe"},
+        {"name": "Care and Maintenance", "icon": "fas fa-cogs"},
+        {"name": "Programing Arduino", "icon": "fas fa-network-wired"}, 
+        {"name": "Programing Matlab", "icon": "fas fa-cogs"}
+    ]
+}
