@@ -1,14 +1,14 @@
 [
     {
         "university": "Junior high school one bergas",
-		"logo": "images/SMP.JPG",
+		"logo": "images/SMP.png",
         "major": "",
         "year": "2017 - 2019",
         "description": "I attended junior high school 1 bergas, where I built a strong academic foundation and developed my early interest in science and technology."
     },
     {
         "university": "State vocational school two salatiga",
-		"logo": "images/SMK2.JPG",
+		"logo": "images/SMK2.png",
         "major": "Industrial Electronics Engineering",
         "year": "2019 - 2022",
         "description": "I took my vocational high school education at SMK Negeri 2 Salatiga, majoring in Industrial Electronic Engineering. During my vocational high school years, I deepened my studies such as Cx-One (PLC), Arduino Ide, Proteus, PCB Making while also actively participating in extracurricular activities"
